@@ -8,5 +8,8 @@
     "eslint-config-turbo": "^1.10.12",
     "eslint-plugin-mdx": "^2.2.0",
     "eslint-plugin-storybook": "^0.6.13"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1"
   }
 }
